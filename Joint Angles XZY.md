@@ -1,0 +1,79 @@
+# Joint Angles XZY
+- Frame
+- L5S1
+	- Lateral
+		- Bending
+	- Axial
+		- Bending
+- L4L3
+	- Lateral
+		- Bending
+	- Axial
+		- Rotation
+- L1T12
+	- Lateral
+		- Bending
+	- Axial
+		- Rotation
+- T9T8
+	- Lateral
+		- Bending
+	- Axial
+		- Rotation
+- T1C7
+	- Lateral
+		- Bending
+	- Axial
+		- Rotation
+- C1
+	- Head
+		- Lateral
+			- Bending
+		- Axial
+			- Rotation
+- Right
+	- T4
+		- Shoulder
+			- Abduction/Adduction, Flexion/Extension
+	- Shoulder
+		- Abduction/Adduction, Flexion/Extension
+	- Elbow
+		- Ulnar
+			- Deviation/Radial
+				- Deviation
+	- Wrist
+		- Ulnar
+			- Deviation/Radial
+				- Deviation
+	- Hip
+		- Abduction/Adduction, Flexion/Extension
+	- Knee
+		- Abduction/Adduction, Flexion/Extension
+	- Ankle
+		- Abduction/Adduction, Dorsiflexion/Plantarflexion
+	- Ball
+		- Foot
+			- Abduction/Adduction, Flexion/Extension
+- Left
+	- T4
+		- Shoulder
+			- Abduction/Adduction, Flexion/Extension
+	- Shoulder
+		- Abduction/Adduction, Flexion/Extension
+	- Elbow
+		- Ulnar
+			- Deviation/Radial
+				- Deviation
+	- Wrist
+		- Ulnar
+			- Deviation/Radial
+				- Deviation
+	- Hip
+		- Abduction/Adduction, Flexion/Extension
+	- Knee
+		- Abduction/Adduction, Flexion/Extension
+	- Ankle
+		- Abduction/Adduction, Dorsiflexion/Plantarflexion
+	- Ball
+		- Foot
+			- Abduction/Adduction, Flexion/Extension

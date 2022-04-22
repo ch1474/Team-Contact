@@ -1,0 +1,32 @@
+# Ergonomic Joint Angles ZXY
+- Frame
+- T8_Head
+	- Lateral
+		- Bending
+	- Axial
+		- Bending
+- T8_LeftUpperArm
+	- Lateral
+		- Bending
+	- Axial
+		- Bending
+- T8_RightUpperArm
+	- Lateral
+		- Bending
+	- Axial
+		- Bending
+- Pelvis_T8
+	- Lateral
+		- Bending
+	- Axial
+		- Bending
+- Vertical_Pelvis
+	- Lateral
+		- Bending
+	- Axial
+		- Bending
+- Vertical_T8
+	- Lateral
+		- Bending
+	- Axial
+		- Bending
