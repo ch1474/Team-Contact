@@ -1,0 +1,54 @@
+# Sensor Orientation - Quat
+- Frame
+- Pelvis
+	- q0, q1, q2, q3
+- L5
+	- q0, q1, q2, q3
+- L3
+	- q0, q1, q2, q3
+- T12
+	- q0, q1, q2, q3
+- T8
+	- q0, q1, q2, q3
+- Neck
+	- q0, q1, q2, q3
+- Head
+	- q0, q1, q2, q3
+- Right
+	- Shoulder
+		- q0, q1, q2, q3
+	- Upper
+		- Arm
+			- q0, q1, q2, q3
+		- Leg
+			- q0, q1, q2, q3
+	- Forearm
+		- q0, q1, q2, q3
+	- Hand
+		- q0, q1, q2, q3
+	- Lower
+		- Leg
+			- q0, q1, q2, q3
+	- Foot
+		- q0, q1, q2, q3
+	- Toe
+		- q0, q1, q2, q3
+- Left
+	- Shoulder
+		- q0, q1, q2, q3
+	- Upper
+		- Arm
+			- q0, q1, q2, q3
+		- Leg
+			- q0, q1, q2, q3
+	- Forearm
+		- q0, q1, q2, q3
+	- Hand
+		- q0, q1, q2, q3
+	- Lower
+		- Leg
+			- q0, q1, q2, q3
+	- Foot
+		- q0, q1, q2, q3
+	- Toe
+		- q0, q1, q2, q3
